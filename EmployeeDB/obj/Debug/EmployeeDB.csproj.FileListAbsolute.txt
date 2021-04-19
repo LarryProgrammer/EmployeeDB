@@ -1,0 +1,13 @@
+C:\Users\Larry\Desktop\York Tech Classes\S6\C# Programming II\EmployeeDB\bin\Debug\Personnel.mdf
+C:\Users\Larry\Desktop\York Tech Classes\S6\C# Programming II\EmployeeDB\bin\Debug\Personnel_log.ldf
+C:\Users\Larry\Desktop\York Tech Classes\S6\C# Programming II\EmployeeDB\bin\Debug\EmployeeDB.exe.config
+C:\Users\Larry\Desktop\York Tech Classes\S6\C# Programming II\EmployeeDB\bin\Debug\EmployeeDB.exe
+C:\Users\Larry\Desktop\York Tech Classes\S6\C# Programming II\EmployeeDB\bin\Debug\EmployeeDB.pdb
+C:\Users\Larry\Desktop\York Tech Classes\S6\C# Programming II\EmployeeDB\obj\Debug\EmployeeDB.csprojAssemblyReference.cache
+C:\Users\Larry\Desktop\York Tech Classes\S6\C# Programming II\EmployeeDB\obj\Debug\EmployeeDB.mainForm.resources
+C:\Users\Larry\Desktop\York Tech Classes\S6\C# Programming II\EmployeeDB\obj\Debug\EmployeeDB.Properties.Resources.resources
+C:\Users\Larry\Desktop\York Tech Classes\S6\C# Programming II\EmployeeDB\obj\Debug\EmployeeDB.csproj.GenerateResource.cache
+C:\Users\Larry\Desktop\York Tech Classes\S6\C# Programming II\EmployeeDB\obj\Debug\EmployeeDB.exe
+C:\Users\Larry\Desktop\York Tech Classes\S6\C# Programming II\EmployeeDB\obj\Debug\EmployeeDB.pdb
+C:\Users\Larry\Desktop\York Tech Classes\S6\C# Programming II\EmployeeDB\obj\Debug\EmployeeDB.Details.resources
+C:\Users\Larry\Desktop\York Tech Classes\S6\C# Programming II\EmployeeDB\obj\Debug\EmployeeDB.SearchForm.resources
